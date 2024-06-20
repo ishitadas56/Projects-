@@ -1,1 +1,1 @@
-# Tomato Late Blight Disease Prediction
+# project drtails
