@@ -1,1 +1,1 @@
-# project drtails
+# project details
