@@ -1,1 +1,1 @@
-# project details
+# These Projects re made by Python and Machine Learning and the dataset is imported from kaggle , at first i imported some python libraries then i import the dataset and then apply some algorithms on it and find the accurecy and also calculate some plots 
